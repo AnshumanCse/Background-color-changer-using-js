@@ -9,4 +9,4 @@ document.getElementById("btn").addEventListener(
     getcolor
 )
 
-getcolor();
+getcolor(1);
