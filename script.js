@@ -5,7 +5,7 @@ const getcolor = () =>{
     document.body.style.backgroundColor = randomCode;
 }
 document.getElementById("btn").addEventListener(
-    "onclick",
+    "click",
     getcolor
 )
 
