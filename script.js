@@ -10,3 +10,7 @@ document.getElementById("btn").addEventListener(
 )
 
 getcolor();
+
+const DefultColor;
+
+
