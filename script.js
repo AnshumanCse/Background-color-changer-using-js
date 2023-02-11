@@ -14,6 +14,7 @@ getcolor();
 const DefultColor;
 
 function = (getcolor) => {
+    DefaultColor ();
     
     
 }
