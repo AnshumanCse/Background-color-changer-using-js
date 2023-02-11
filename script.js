@@ -13,4 +13,7 @@ getcolor();
 
 const DefultColor;
 
-
+function = (getcolor) => {
+    
+    
+}
