@@ -18,3 +18,5 @@ function = (getcolor) => {
     
     
 }
+
+let defaulColor = "black"
