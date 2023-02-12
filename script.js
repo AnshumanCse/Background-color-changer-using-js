@@ -14,7 +14,7 @@ getcolor();
 const DefultColor;
 
 function = (getcolor) => {
-    DefaultColor ();
+    DefaultColor (67);
     
     
 }
