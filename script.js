@@ -20,4 +20,7 @@ function = (getcolor) => {
 }
 
 let defaulColor = "black"
-getColor:
+getColor (=>{
+          
+          
+          })
