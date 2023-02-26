@@ -26,5 +26,4 @@ getColor (=>{
 });
 let dark;
 
-if(  ){
     
