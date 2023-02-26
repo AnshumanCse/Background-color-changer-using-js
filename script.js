@@ -24,6 +24,6 @@ getColor (=>{
           
           
 });
-let dark;
+
 
     
