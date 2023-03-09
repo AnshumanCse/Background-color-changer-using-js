@@ -23,7 +23,7 @@ let defaulColor = "black"
 getColor (=>{
 //    document.getelemtbyclassname.
           
-          console.log(DefaulColor);
+          console.log("DefaulColor");
 });
 
 
