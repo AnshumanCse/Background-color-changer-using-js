@@ -21,7 +21,7 @@ function = (getcolor) => {
 
 let defaulColor = "black"
 getColor (=>{
-          
+//    document.getelemtbyclassname.       
           
 });
 
